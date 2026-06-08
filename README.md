@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  Keep building. Keep shipping. Keep learning.
+  Learning, building, and growing one commit at a time.
 </p>
