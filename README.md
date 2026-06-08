@@ -41,20 +41,11 @@
 | Spring Boot | Practical project structure, starters, middleware, and service integration |
 | Open Source | Learning in public and improving through real code |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drive888&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drive888&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
-
 ## Featured Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [itinerary-microservice-and-rate-limit-starter](https://github.com/drive888/itinerary-microservice-and-rate-limit-starter) | Itinerary planning microservices system and Redis rate limit Spring Boot starter. | Java / Spring Boot / Redis |
-| [West-2-task5](https://github.com/drive888/West-2-task5) | A learning task project from my backend development journey. | Java |
-| [collection-java](https://github.com/drive888/collection-java) | Java learning notes and code records from the west2-online learning process. | Java |
+| [Itinerary Planning System](https://github.com/drive888/itinerary-microservice-and-rate-limit-starter) | Itinerary planning microservices system and Redis rate limit Spring Boot starter. | Java / Spring Boot / Redis |
 
 ## Contact
 
